@@ -8,8 +8,8 @@ import heroImage from "@/IMAGENS/imagem-principal.jpg";
 // 
 
 const DADOS_DO_GRUPO = {
-  titulo: "TÍTULO DO TRABALHO",                    // ← Troque pelo título
-  descricao: "DESCRIÇÃO BÁSICA DO SEU TRABALHO",   // ← Troque pela descrição
+  titulo: "VisionSafe",                    // ← Troque pelo título
+  descricao: "O VisionSafe é um projeto de tecnologia assistiva desenvolvido para auxiliar pessoas com baixa visão ou cegueira na identificação de possíveis situações de risco relacionadas à presença de gás e fumaça.",   // ← Troque pela descrição
   materias: ["Programação", "Física", "Robótica"], // ← Troque pelas matérias
   videoYouTube: "22nd99SLgNA",                     // ← ID do vídeo do YouTube (o que vem depois do v=)
   imagem: "imagem-principal.jpg",                  // ← Nome da imagem na pasta IMAGENS
